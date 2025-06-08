@@ -1,0 +1,43 @@
+{
+
+  "name": "vless-ws",
+
+  "version": "1.0.2",
+
+  "description": "simple vless ws",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "keywords": [
+
+    "websocket",
+
+    "proxy",
+
+    "nodejs",
+
+    "vless",
+
+    "xray"
+
+  ],
+
+  "author": "bexnxx",
+
+  "license": "ISC",
+
+  "dependencies": {
+
+    "ws": "latest",
+
+    "express": "^4.21.2"
+
+  }
+
+}
